@@ -34,9 +34,9 @@ Conclusion
 
 Our Anonymous Verifiable Voting System successfully preserves voter privacy while ensuring election integrity. By combining cryptographic key generation, secure vote encryption, and mixnets with zero-knowledge proofs, the system addresses the need for secure, transparent digital elections. This system represents a significant step forward in advancing secure and tamper-resistant democratic processes in the digital age.
 
-References
-
-A verifiable secret shuffle and its application to e-voting
-Verifiable Shuffle of Large Size Ciphertexts
-A Review of Cryptographic Electronic Voting
-Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions
+REFERENCES
+• A verifiable secret shuffle and its application to e-voting. (ref:https://dl.acm.org/doi/pdf/10.1145/501983.502000)
+• Verifiable Shuffle of Large Size Ciphertexts. (ref:https://iacr.org/archive/pkc2007/44500377/44500377.pdf)
+• A Review of Cryptographic Electronic Voting. (ref:https://doi.org/10.3390/sym14050858)
+• Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions.
+(ref:https://eprint.iacr.org/2022/422)
