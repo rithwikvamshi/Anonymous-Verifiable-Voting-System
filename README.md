@@ -1,6 +1,7 @@
-An Anonymous Verifiable Voting System
-
-Introduction
+**An Anonymous Verifiable Voting System
+**
+**_Introduction_
+**
 In today’s world, ensuring that voting is both secure and private is more important than ever. Our project focuses on
 creating a system where people can vote without anyone else knowing their choices. This kind of system uses special
 methods to keep votes secret and make sure that all votes are counted correctly.The key to our system is using what’s
